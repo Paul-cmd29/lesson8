@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIQD7grFcz4L9/n9ToySKWnBSQBxzoj5rXy7mc9dfE4jxEbixKX3l6bVohzhuT0VPHyQ3s6z0F+hsbY4LiFYnA==",
+  "success": true,
+  "projectFilePath": "/Users/paul/Projects/lesson8/lesson8/lesson8.csproj",
+  "expectedPackageFiles": [
+    "/Users/paul/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

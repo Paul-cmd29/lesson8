@@ -1,0 +1,14 @@
+/Users/paul/Projects/lesson8/lesson8/bin/Debug/netcoreapp3.1/lesson8
+/Users/paul/Projects/lesson8/lesson8/bin/Debug/netcoreapp3.1/lesson8.deps.json
+/Users/paul/Projects/lesson8/lesson8/bin/Debug/netcoreapp3.1/lesson8.runtimeconfig.json
+/Users/paul/Projects/lesson8/lesson8/bin/Debug/netcoreapp3.1/lesson8.runtimeconfig.dev.json
+/Users/paul/Projects/lesson8/lesson8/bin/Debug/netcoreapp3.1/lesson8.dll
+/Users/paul/Projects/lesson8/lesson8/bin/Debug/netcoreapp3.1/lesson8.pdb
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.csproj.AssemblyReference.cache
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.AssemblyInfoInputs.cache
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.AssemblyInfo.cs
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.dll
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.pdb
+/Users/paul/Projects/lesson8/lesson8/obj/Debug/netcoreapp3.1/lesson8.genruntimeconfig.cache
